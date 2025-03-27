@@ -60,4 +60,3 @@ console.log(`Название проекта: ${formattedTitle}`);
 console.log(`Стоимость всех услуг: ${allServicePrices}`);
 console.log(`Полная стоимость проекта: ${fullPrice}`);
 console.log(`Итоговая сумма после комиссии: ${servicePercentPrice}`);
-console.log("Не забудьте загрузить код в репозиторий на GitHub!");
